@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-automation-builder** — no-code automation workflow builder with AI logic. Part of the Zion Tech Group app network (630+ apps).
+**ai-automation-builder** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
 
 ## Related apps
-- [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator) — workflow automation
-- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — automated data pipelines
-- [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) — multi-agent workflows
+- [ai-agriculture-tech](https://github.com/Zion-support/ai-agriculture-tech) — AI Agriculture Technology
+- [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) — Blockchain analytics and smart contract auditing
+- [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) — Data-driven charts and visualizations
+- [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) — Build data pipelines
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
