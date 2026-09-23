@@ -1,10 +1,11 @@
-# AI Automation Builder
+# 🔗 Zion App Network
 
-Visual no-code automation workflow builder with AI-powered logic.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator) · [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) · [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) · [ai-automated-booking](https://github.com/Zion-support/ai-automated-booking)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) · [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) · [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder)
