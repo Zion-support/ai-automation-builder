@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Automation Builder
 
-**ai-automation-builder** is part of the Zion Tech Group app network (630+ apps).
+Visual no-code automation workflow builder with AI-powered logic.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-ai-workflow-automator](https://github.com/Zion-support/zion-ai-workflow-automator) · [ai-agent-workflow-builder](https://github.com/Zion-support/ai-agent-workflow-builder) · [ai-agent-workflow](https://github.com/Zion-support/ai-agent-workflow) · [ai-automated-booking](https://github.com/Zion-support/ai-automated-booking)
 
-## Related apps
-- [ai-agriculture-tech](https://github.com/Zion-support/ai-agriculture-tech) — AI Agriculture Technology
-- [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) — Blockchain analytics and smart contract auditing
-- [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) — Data-driven charts and visualizations
-- [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) — Build data pipelines
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
